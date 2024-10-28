@@ -3,22 +3,22 @@
   "textClasses": {
     "callout": {
       "fontSize": 45,
-      "fontFace": "Poppins",
+      "fontFace": "wf_standard-font, helvetica, arial, sans-serif",
       "color": "#252423"
     },
     "title": {
       "fontSize": 12,
-      "fontFace": "Poppins",
+      "fontFace": "wf_standard-font, helvetica, arial, sans-serif",
       "color": "#252423"
     },
     "header": {
       "fontSize": 12,
-      "fontFace": "Poppins",
+      "fontFace": "wf_standard-font, helvetica, arial, sans-serif",
       "color": "#252423"
     },
     "label": {
       "fontSize": 10,
-      "fontFace": "Poppins",
+      "fontFace": "wf_standard-font, helvetica, arial, sans-serif",
       "color": "#252423"
     }
   },
